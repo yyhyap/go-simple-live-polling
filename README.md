@@ -3,6 +3,7 @@
  
  ## Tech stacks
  - Go
+ - Gin
  - Websocket
  - Zap
  - MongoDB
