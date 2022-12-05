@@ -1,0 +1,43 @@
+.submission__form {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.submission__form-inputs {
+    padding-right: 10%;
+    padding-left: 10%;
+    grid-template-columns: repeat(3, 1fr);
+    margin-bottom: 2rem;
+}
+
+.submission__input-text {
+    font-size: 18px;
+    margin-bottom: 8px;
+}
+
+.submission__input-formcontrol {
+    width: 90%;
+}
+
+.button {
+    display: inline-block;
+    background-color: hsl(0, 0%, 20%);
+    color: #fff;
+    padding: 0.75rem 2.5rem;
+    border-radius: 1rem;
+    font-weight: 500;
+    font-size: 17px;
+}
+
+.button:hover {
+    background-color: hsl(0, 0%, 0%);
+  }
+
+.button--flex {
+    display: inline-flex;
+    align-items: center;
+}
+
+.errormessage {
+    color: red;
+}

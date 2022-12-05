@@ -1,0 +1,15 @@
+/*=============== BASE ===============*/
+body {
+  background-color: rgb(235, 235, 230);
+}
+
+/*=============== LAYOUT ===============*/
+.container {
+  margin-left: auto;
+  margin-right: auto;
+}
+  
+.grid {
+  display: grid;
+  gap: 1.5rem;
+}

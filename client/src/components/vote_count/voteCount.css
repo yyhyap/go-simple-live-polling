@@ -1,0 +1,40 @@
+.party__container {
+    grid-template-rows: repeat(3, 1fr);
+    align-items: center;
+    text-align: center;
+    row-gap: 2rem;
+    margin-left: 4rem;
+    margin-right: 4rem;
+    margin-top: 4rem;
+}
+
+.party__card {
+    border: 1px rgba(0, 0, 0, 0.1);
+    padding: 1.25rem;
+    border-radius: 1rem;
+}
+
+.party__id {
+    margin-bottom: 12px;
+    color: whitesmoke;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 22px;
+}
+
+.PakatanHarapan {
+    background-color: rgb(252, 15, 18);
+}
+
+.BarisanNasional {
+    background-color: rgb(2, 20, 156);
+}
+
+.PerikatanNasional {
+    background-color: rgb(11, 47, 71);
+}
+
+.party__count {
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
