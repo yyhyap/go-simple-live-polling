@@ -1,9 +1,10 @@
 # Simple Live Polling web app built with Go and React
- _To simulate Malaysia's 15th General Election live voting using websocket and MongoDB_
+ To simulate Malaysia's 15th General Election live voting using websocket and MongoDB
  
  ## Tech stacks
  - Go
  - Websocket
+ - Zap
  - MongoDB
  - React
 
