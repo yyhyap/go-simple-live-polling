@@ -24,6 +24,4 @@ MONGODB_URL
 ```
 
 ## Docker
-<p>
-    Kindly change the variable _projectDirName_ in file _dotEnvUtil.go_ and _mongoDbConnection.go_ to "" before docker build.
-</p>
+Kindly change the variable _projectDirName_ in file _dotEnvUtil.go_ and _mongoDbConnection.go_ to "" before docker build.
